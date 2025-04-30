@@ -1,6 +1,5 @@
 # World Life Expectancy Data Analysis
 
-## Title Slide
 **World Life Expectancy Trends**  
 *A Data Exploration Project*  
 
