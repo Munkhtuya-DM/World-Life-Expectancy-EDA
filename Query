@@ -1,4 +1,4 @@
-  --   Us Household Income Data Cleaning Steps
+.sql  --   Us Household Income Data Cleaning Steps
 SELECT *
 FROM US_Household_Income ;
 
